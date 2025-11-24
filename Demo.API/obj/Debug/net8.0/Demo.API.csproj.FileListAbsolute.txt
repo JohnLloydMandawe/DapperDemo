@@ -48,3 +48,4 @@ C:\Users\projects\dotnet\Demo.API\bin\Debug\net8.0\runtimes\win-x64\native\k5spr
 C:\Users\projects\dotnet\Demo.API\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
 C:\Users\projects\dotnet\Demo.API\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Users\projects\dotnet\Demo.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\projects\dotnet\Demo.API\obj\Debug\net8.0\Demo.API.sourcelink.json
